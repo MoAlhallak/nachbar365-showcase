@@ -32,29 +32,29 @@ I contributed strongly to the technical implementation, especially in:
 - Messaging / communication features
 - Database-backed data management
 - Role-based access control
+
 ## Screenshots
 
 ### Start Page
-![Start Page](screenshots/Startpage.png)
+![Start Page](screenshots/Start page.png)
 
-### Sign In 
-![Sign In](screenshots/signin.png)
+### Sign In
+![Sign In](screenshots/Sign in.png)
 
 ### Sign Up
-![Sign Up](screenshots/signup.png)
+![Sign Up](screenshots/Sign up.png)
 
 ### 2FA
 ![2FA](screenshots/2fa.png)
 
-### Calendar
-![Calendar](screenshots/Calender.png)
+### Calender
+![Calender](screenshots/Calender.png)
 
 ### Chats
 ![Chats](screenshots/Chats.png)
 
 ### Map
 ![Map](screenshots/Map.png)
-
 
 
 ## Notes
