@@ -36,7 +36,7 @@ I contributed strongly to the technical implementation, especially in:
 ## Screenshots
 
 ### Start Page
-![Start Page](screenshots/Start page.png)
+![Start page](screenshots/Start page.png)
 
 ### Sign In
 ![Sign In](screenshots/Sign in.png)
