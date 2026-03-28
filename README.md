@@ -35,7 +35,7 @@ I contributed strongly to the technical implementation, especially in:
 ## Screenshots
 
 ### Start Page
-![Start Page](screenshots/start-page.png)
+![Start Page](screenshots/Startpage.png)
 
 ### Sign In / Sign Up
 ![Sign In / Sign Up](screenshots/signin-signup.png)
@@ -44,13 +44,13 @@ I contributed strongly to the technical implementation, especially in:
 ![2FA](screenshots/2fa.png)
 
 ### Calendar
-![Calendar](screenshots/calendar.png)
+![Calendar](screenshots/Calender.png)
 
 ### Chats
-![Chats](screenshots/chats.png)
+![Chats](screenshots/Chats.png)
 
 ### Map
-![Map](screenshots/map.png)
+![Map](screenshots/Map.png)
 
 
 
