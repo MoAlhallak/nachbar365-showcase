@@ -32,6 +32,27 @@ I contributed strongly to the technical implementation, especially in:
 - Messaging / communication features
 - Database-backed data management
 - Role-based access control
+## Screenshots
+
+### Start Page
+![Start Page](screenshots/start-page.png)
+
+### Sign In / Sign Up
+![Sign In / Sign Up](screenshots/signin-signup.png)
+
+### 2FA
+![2FA](screenshots/2fa.png)
+
+### Calendar
+![Calendar](screenshots/calendar.png)
+
+### Chats
+![Chats](screenshots/chats.png)
+
+### Map
+![Map](screenshots/map.png)
+
+
 
 ## Notes
 This repository is a public showcase version and documents the project structure, architecture and technologies used.
