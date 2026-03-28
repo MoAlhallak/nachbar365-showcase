@@ -38,10 +38,10 @@ I contributed strongly to the technical implementation, especially in:
 ![Start Page](screenshots/Startpage.png)
 
 ### Sign In 
-![Sign In / Sign Up](screenshots/signin.png)
+![Sign In](screenshots/signin.png)
 
 ### Sign Up
-![Sign In / Sign Up](screenshots/signup.png)
+![Sign Up](screenshots/signup.png)
 
 ### 2FA
 ![2FA](screenshots/2fa.png)
